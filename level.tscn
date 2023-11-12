@@ -1,0 +1,83 @@
+[gd_scene load_steps=2 format=3 uid="uid://er7ge8r2yjqy"]
+
+[ext_resource type="PackedScene" uid="uid://c8y4mg2x6mta6" path="res://unit.tscn" id="1_4q4g3"]
+
+[node name="Level" type="Node2D"]
+
+[node name="Unit" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(310, 214)
+
+[node name="Unit2" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(631, 364)
+
+[node name="Unit3" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(333, 451)
+
+[node name="Unit4" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(623, 126)
+
+[node name="Unit5" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(778, 526)
+
+[node name="Unit6" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(871, 252)
+
+[node name="Unit7" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(1033, 105)
+
+[node name="Unit8" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(504, 235)
+
+[node name="Unit9" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(178, 336)
+
+[node name="Unit10" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(996, 373)
+
+[node name="Unit11" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(973, 520)
+
+[node name="Unit12" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(529, 509)
+
+[node name="Unit17" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(432, 451)
+
+[node name="Unit18" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(722, 126)
+
+[node name="Unit19" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(877, 526)
+
+[node name="Unit20" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(970, 252)
+
+[node name="Unit21" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(1132, 105)
+
+[node name="Unit22" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(603, 235)
+
+[node name="Unit23" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(277, 336)
+
+[node name="Unit24" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(1095, 373)
+
+[node name="Unit25" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(1072, 520)
+
+[node name="Unit26" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(628, 509)
+
+[node name="Unit13" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(410, 342)
+
+[node name="Unit14" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(139, 127)
+
+[node name="Unit15" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(184, 537)
+
+[node name="Unit16" parent="." instance=ExtResource("1_4q4g3")]
+position = Vector2(801, 107)
